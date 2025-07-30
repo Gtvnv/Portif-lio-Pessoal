@@ -76,9 +76,9 @@ HTML • CSS • JavaScript • Java • PostgreSQL • MySQL • Git / GitHub
 
 ### 🎯 Próximos passos e Tecnologias Futuras:
 
-Python • TypeScript • C# • Spring Boot • React • Node.js • Arquitetura de Software • Computação em Nuvem • Cibersegurança • Docker
+Python • TypeScript • C# • Spring Boot • React • Node.js • Computação em Nuvem • Cibersegurança • Docker • Linux • Kotlin
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,cs,spring,react,nodejs,docker,linux" alt="Ícones de Habilidades Futuras" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,cs,spring,react,nodejs,docker,linux,kotlin" alt="Ícones de Habilidades Futuras" /> </p>
 
 ---
 
